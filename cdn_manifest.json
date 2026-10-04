@@ -1,0 +1,46 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-10-04",
+  "description": "Production CDN package for Custom Mobile Keyboard App (Themes, DIY Assets, and Searchable GIFs)",
+  "cdn_url_format": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/{path}",
+  "endpoints": {
+    "manifest": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/cdn_manifest.json",
+    "themes_catalog": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/themes.json",
+    "assets_catalog": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/assets.json",
+    "gifs_catalog": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/gifs/gifs.json"
+  },
+  "themes": {
+    "total_count": 851,
+    "catalog": "themes/themes.json",
+    "previews_folder": "themes/previews/",
+    "downloads_folder": "themes/downloads/",
+    "total_previews_available": 813,
+    "total_downloads_available": 536
+  },
+  "assets": {
+    "total_count": 259,
+    "catalog": "assets/assets.json",
+    "previews_folder": "assets/previews/",
+    "downloads_folder": "assets/downloads/",
+    "total_previews_available": 259,
+    "total_downloads_available": 299,
+    "breakdown": {
+      "gif_backgrounds": 175,
+      "key_fonts_ttf": 40,
+      "typing_sounds_caf": 36,
+      "key_buttons_png": 4,
+      "swipe_effects_png": 4
+    }
+  },
+  "gifs": {
+    "total_count": 1200,
+    "searchable": true,
+    "categories_count": 36,
+    "catalog": "gifs/gifs.json",
+    "previews_folder": "gifs/previews/",
+    "downloads_folder": "gifs/downloads/",
+    "total_previews_available": 1200,
+    "total_downloads_available": 1200
+  },
+  "cdn_base_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main"
+}
