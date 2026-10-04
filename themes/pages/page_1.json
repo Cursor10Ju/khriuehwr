@@ -1,0 +1,523 @@
+{
+  "page": 1,
+  "per_page": 30,
+  "total_items": 851,
+  "total_pages": 29,
+  "has_next": true,
+  "has_prev": false,
+  "current_page_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/pages/page_1.json",
+  "next_page_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/pages/page_2.json",
+  "prev_page_url": null,
+  "data": [
+    {
+      "id": "theme_0001",
+      "name": "Simple Light",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0001.webp",
+      "cdn_download_path": "themes/downloads/theme_0001.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0001.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0001.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 9726,
+        "download_size": 85597
+      }
+    },
+    {
+      "id": "theme_0002",
+      "name": "Simple Dark",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0002.webp",
+      "cdn_download_path": "themes/downloads/theme_0002.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0002.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0002.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 9162,
+        "download_size": 85352
+      }
+    },
+    {
+      "id": "theme_0003",
+      "name": "Flat Light Purple",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0003.webp",
+      "cdn_download_path": "themes/downloads/theme_0003.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0003.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0003.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 12712,
+        "download_size": 587010
+      }
+    },
+    {
+      "id": "theme_0004",
+      "name": "Light Pink Stroke",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0004.webp",
+      "cdn_download_path": "themes/downloads/theme_0004.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0004.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0004.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 15616,
+        "download_size": 585337
+      }
+    },
+    {
+      "id": "theme_0005",
+      "name": "Blue Dark",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0005.webp",
+      "cdn_download_path": "themes/downloads/theme_0005.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0005.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0005.zip",
+      "status": {
+        "preview_downloaded": false,
+        "download_downloaded": false,
+        "preview_size": 0,
+        "download_size": 0
+      }
+    },
+    {
+      "id": "theme_0006",
+      "name": "Cookie Choco",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0006.webp",
+      "cdn_download_path": "themes/downloads/theme_0006.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0006.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0006.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 44096,
+        "download_size": 966667
+      }
+    },
+    {
+      "id": "theme_0007",
+      "name": "Christmas Red",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0007.webp",
+      "cdn_download_path": "themes/downloads/theme_0007.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0007.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0007.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 37246,
+        "download_size": 1338831
+      }
+    },
+    {
+      "id": "theme_0008",
+      "name": "Newyear Sparkle",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0008.webp",
+      "cdn_download_path": "themes/downloads/theme_0008.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0008.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0008.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 20764,
+        "download_size": 1940133
+      }
+    },
+    {
+      "id": "theme_0009",
+      "name": "Frozen",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0009.webp",
+      "cdn_download_path": "themes/downloads/theme_0009.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0009.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0009.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 56196,
+        "download_size": 1511791
+      }
+    },
+    {
+      "id": "theme_0010",
+      "name": "Cute Cat",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0010.webp",
+      "cdn_download_path": "themes/downloads/theme_0010.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0010.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0010.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 16366,
+        "download_size": 1349125
+      }
+    },
+    {
+      "id": "theme_0011",
+      "name": "Ravenclaw",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0011.webp",
+      "cdn_download_path": "themes/downloads/theme_0011.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0011.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0011.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 37640,
+        "download_size": 1993613
+      }
+    },
+    {
+      "id": "theme_0012",
+      "name": "NewYear Crackers",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0012.webp",
+      "cdn_download_path": "themes/downloads/theme_0012.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0012.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0012.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 53086,
+        "download_size": 2273635
+      }
+    },
+    {
+      "id": "theme_0013",
+      "name": "Newyear Light",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0013.webp",
+      "cdn_download_path": "themes/downloads/theme_0013.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0013.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0013.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 28394,
+        "download_size": 1812531
+      }
+    },
+    {
+      "id": "theme_0014",
+      "name": "Ramadan Kareem",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "1",
+      "cdn_preview_path": "themes/previews/theme_0014.webp",
+      "cdn_download_path": "themes/downloads/theme_0014.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0014.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0014.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 29050,
+        "download_size": 1273318
+      }
+    },
+    {
+      "id": "theme_0015",
+      "name": "Christmas Green",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0015.webp",
+      "cdn_download_path": "themes/downloads/theme_0015.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0015.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0015.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 46118,
+        "download_size": 2213629
+      }
+    },
+    {
+      "id": "theme_0016",
+      "name": "Moonlight Dua",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0016.webp",
+      "cdn_download_path": "themes/downloads/theme_0016.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0016.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0016.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 33606,
+        "download_size": 1548742
+      }
+    },
+    {
+      "id": "theme_0017",
+      "name": "Slytherin",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0017.webp",
+      "cdn_download_path": "themes/downloads/theme_0017.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0017.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0017.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 24288,
+        "download_size": 1582005
+      }
+    },
+    {
+      "id": "theme_0018",
+      "name": "Sajda Night",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0018.webp",
+      "cdn_download_path": "themes/downloads/theme_0018.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0018.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0018.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 27672,
+        "download_size": 1440760
+      }
+    },
+    {
+      "id": "theme_0019",
+      "name": "Dua Vibes",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0019.webp",
+      "cdn_download_path": "themes/downloads/theme_0019.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0019.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0019.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 38788,
+        "download_size": 1551221
+      }
+    },
+    {
+      "id": "theme_0020",
+      "name": "Spiritual Harmony",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0020.webp",
+      "cdn_download_path": "themes/downloads/theme_0020.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0020.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0020.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 54798,
+        "download_size": 2340401
+      }
+    },
+    {
+      "id": "theme_0021",
+      "name": "Gryffindor",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0021.webp",
+      "cdn_download_path": "themes/downloads/theme_0021.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0021.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0021.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 37072,
+        "download_size": 1749569
+      }
+    },
+    {
+      "id": "theme_0022",
+      "name": "Hufflepuff",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0022.webp",
+      "cdn_download_path": "themes/downloads/theme_0022.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0022.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0022.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 24720,
+        "download_size": 1459012
+      }
+    },
+    {
+      "id": "theme_0023",
+      "name": "Christmas Night",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0023.webp",
+      "cdn_download_path": "themes/downloads/theme_0023.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0023.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0023.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 33946,
+        "download_size": 2112927
+      }
+    },
+    {
+      "id": "theme_0024",
+      "name": "Santa",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0024.webp",
+      "cdn_download_path": "themes/downloads/theme_0024.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0024.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0024.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 34972,
+        "download_size": 825674
+      }
+    },
+    {
+      "id": "theme_0025",
+      "name": "Anime Luffy",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0025.webp",
+      "cdn_download_path": "themes/downloads/theme_0025.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0025.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0025.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 36036,
+        "download_size": 2141245
+      }
+    },
+    {
+      "id": "theme_0026",
+      "name": "Rugby",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0026.webp",
+      "cdn_download_path": "themes/downloads/theme_0026.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0026.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0026.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 38584,
+        "download_size": 2443545
+      }
+    },
+    {
+      "id": "theme_0027",
+      "name": "AnimeAction",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0027.webp",
+      "cdn_download_path": "themes/downloads/theme_0027.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0027.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0027.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 25804,
+        "download_size": 1359708
+      }
+    },
+    {
+      "id": "theme_0028",
+      "name": "AnimeFight",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0028.webp",
+      "cdn_download_path": "themes/downloads/theme_0028.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0028.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0028.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 42894,
+        "download_size": 2123757
+      }
+    },
+    {
+      "id": "theme_0029",
+      "name": "Anime Girl",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0029.webp",
+      "cdn_download_path": "themes/downloads/theme_0029.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0029.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0029.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 44054,
+        "download_size": 2380272
+      }
+    },
+    {
+      "id": "theme_0030",
+      "name": "AnimeCute",
+      "category": "New",
+      "type": "theme",
+      "is_premium": "0",
+      "cdn_preview_path": "themes/previews/theme_0030.webp",
+      "cdn_download_path": "themes/downloads/theme_0030.zip",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0030.webp",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0030.zip",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 30064,
+        "download_size": 1808557
+      }
+    }
+  ]
+}

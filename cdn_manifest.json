@@ -42,5 +42,23 @@
     "total_previews_available": 1200,
     "total_downloads_available": 1200
   },
-  "cdn_base_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main"
+  "cdn_base_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main",
+  "pagination": {
+    "default_per_page": 30,
+    "themes_pages": {
+      "total_pages": 29,
+      "per_page": 30,
+      "url_pattern": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/pages/page_{page}.json"
+    },
+    "assets_pages": {
+      "total_pages": 9,
+      "per_page": 30,
+      "url_pattern": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/pages/page_{page}.json"
+    },
+    "gifs_pages": {
+      "total_pages": 40,
+      "per_page": 30,
+      "url_pattern": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/gifs/pages/page_{page}.json"
+    }
+  }
 }

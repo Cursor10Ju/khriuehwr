@@ -1,0 +1,336 @@
+{
+  "page": 9,
+  "per_page": 30,
+  "total_items": 259,
+  "total_pages": 9,
+  "has_next": false,
+  "has_prev": true,
+  "current_page_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/pages/page_9.json",
+  "next_page_url": null,
+  "prev_page_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/pages/page_8.json",
+  "data": [
+    {
+      "id": "asset_0241",
+      "name": "swipe_food",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0241.png",
+      "cdn_download_path": "assets/downloads/asset_0241.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0241.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0241.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 2113,
+        "download_size": 2113
+      }
+    },
+    {
+      "id": "asset_0242",
+      "name": "swipe_dog",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0242.png",
+      "cdn_download_path": "assets/downloads/asset_0242.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0242.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0242.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 3002,
+        "download_size": 3002
+      }
+    },
+    {
+      "id": "asset_0243",
+      "name": "swipe_twocats",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0243.png",
+      "cdn_download_path": "assets/downloads/asset_0243.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0243.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0243.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 4157,
+        "download_size": 4157
+      }
+    },
+    {
+      "id": "asset_0244",
+      "name": "swipe_bone",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0244.png",
+      "cdn_download_path": "assets/downloads/asset_0244.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0244.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0244.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 1439,
+        "download_size": 1439
+      }
+    },
+    {
+      "id": "asset_0245",
+      "name": "swipe_angle",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0245.png",
+      "cdn_download_path": "assets/downloads/asset_0245.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0245.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0245.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 1306,
+        "download_size": 1306
+      }
+    },
+    {
+      "id": "asset_0246",
+      "name": "swipe_cake",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0246.png",
+      "cdn_download_path": "assets/downloads/asset_0246.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0246.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0246.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 1675,
+        "download_size": 1675
+      }
+    },
+    {
+      "id": "asset_0247",
+      "name": "swipe_feather",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0247.png",
+      "cdn_download_path": "assets/downloads/asset_0247.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0247.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0247.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 1745,
+        "download_size": 1745
+      }
+    },
+    {
+      "id": "asset_0248",
+      "name": "swipe_love",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0248.png",
+      "cdn_download_path": "assets/downloads/asset_0248.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0248.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0248.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 3220,
+        "download_size": 3220
+      }
+    },
+    {
+      "id": "asset_0249",
+      "name": "swipe_glitter heart",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0249.png",
+      "cdn_download_path": "assets/downloads/asset_0249.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0249.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0249.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 8906,
+        "download_size": 8906
+      }
+    },
+    {
+      "id": "asset_0250",
+      "name": "swipe_rabbit",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0250.png",
+      "cdn_download_path": "assets/downloads/asset_0250.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0250.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0250.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 1698,
+        "download_size": 1698
+      }
+    },
+    {
+      "id": "asset_0251",
+      "name": "swipe_star",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0251.png",
+      "cdn_download_path": "assets/downloads/asset_0251.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0251.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0251.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 2117,
+        "download_size": 2117
+      }
+    },
+    {
+      "id": "asset_0252",
+      "name": "swipe_unicorn",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0252.png",
+      "cdn_download_path": "assets/downloads/asset_0252.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0252.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0252.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 3827,
+        "download_size": 3827
+      }
+    },
+    {
+      "id": "asset_0253",
+      "name": "swipe_bread",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0253.png",
+      "cdn_download_path": "assets/downloads/asset_0253.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0253.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0253.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 2071,
+        "download_size": 2071
+      }
+    },
+    {
+      "id": "asset_0254",
+      "name": "swipe_icecream",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0254.png",
+      "cdn_download_path": "assets/downloads/asset_0254.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0254.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0254.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 2570,
+        "download_size": 2570
+      }
+    },
+    {
+      "id": "asset_0255",
+      "name": "swipe_tetraptera",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0255.png",
+      "cdn_download_path": "assets/downloads/asset_0255.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0255.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0255.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 1079,
+        "download_size": 1079
+      }
+    },
+    {
+      "id": "asset_0256",
+      "name": "swipe_arrow",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0256.png",
+      "cdn_download_path": "assets/downloads/asset_0256.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0256.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0256.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 1660,
+        "download_size": 1660
+      }
+    },
+    {
+      "id": "asset_0257",
+      "name": "swipe_snowman",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0257.png",
+      "cdn_download_path": "assets/downloads/asset_0257.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0257.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0257.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 3186,
+        "download_size": 3186
+      }
+    },
+    {
+      "id": "asset_0258",
+      "name": "swip_ribbon",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0258.png",
+      "cdn_download_path": "assets/downloads/asset_0258.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0258.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0258.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 2470,
+        "download_size": 2470
+      }
+    },
+    {
+      "id": "asset_0259",
+      "name": "swipe_lollipop",
+      "category": "Swipe Effects",
+      "type": "swipe",
+      "is_premium": "0",
+      "cdn_preview_path": "assets/previews/asset_0259.png",
+      "cdn_download_path": "assets/downloads/asset_0259.png",
+      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/previews/asset_0259.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/assets/downloads/asset_0259.png",
+      "status": {
+        "preview_downloaded": true,
+        "download_downloaded": true,
+        "preview_size": 1902,
+        "download_size": 1902
+      }
+    }
+  ]
+}
