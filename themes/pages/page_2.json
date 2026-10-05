@@ -486,23 +486,6 @@
       }
     },
     {
-      "id": "theme_0059",
-      "name": "Ramadan Kareem",
-      "category": "Simple",
-      "type": "theme",
-      "is_premium": "1",
-      "cdn_preview_path": "themes/previews/theme_0059.webp",
-      "cdn_download_path": "themes/downloads/theme_0059.zip",
-      "preview_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/previews/theme_0059.webp",
-      "download_url": "https://cdn.jsdelivr.net/gh/Cursor10Ju/khriuehwr@main/themes/downloads/theme_0059.zip",
-      "status": {
-        "preview_downloaded": true,
-        "download_downloaded": true,
-        "preview_size": 29050,
-        "download_size": 1273318
-      }
-    },
-    {
       "id": "theme_0060",
       "name": "Moonlight Dua",
       "category": "Simple",
